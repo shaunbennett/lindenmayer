@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/shaunbennett/lucis/raw/master/render/lsystem.png" width="256"></p>
 
 
-# go-lindenmayer
+# lindenmayer
 A basic implementation of [Lindenmayer systems](https://en.wikipedia.org/wiki/L-system) in Golang.
 
 This was used to generate L-System trees in my raytracer project [lucis](https://github.com/shaunbennett/lucis). See `main.go` for the lua code generation based off the L-System.
